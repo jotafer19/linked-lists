@@ -1,1 +1,1 @@
-# linked-lists
+Linked Lists project for [The Odin Project](https://www.theodinproject.com/lessons/javascript-linked-lists).
